@@ -14,5 +14,6 @@ use visualising tools and html to provide a web layout and text output. Finally 
 The data used is world happiness index parameters of different countries of the year 2018.
 
 You can view the dashboard here:
+
 http://127.0.0.1:8050/
 
